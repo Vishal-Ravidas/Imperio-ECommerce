@@ -1,0 +1,19 @@
+.css-1pqm26d-MuiAvatar-img {
+  height: 80% !important;
+  width: 80% !important;
+}
+@media (max-width: 599.98px) {
+  .css-132tc75-MuiPaper-root-MuiCard-root {
+    margin-top: 40px;
+  }
+}
+@media (min-width: 600px) and (max-width: 959.98px) {
+  .css-132tc75-MuiPaper-root-MuiCard-root {
+    margin-top: 50px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .css-132tc75-MuiPaper-root-MuiCard-root {
+    margin-top: 43px;
+  }
+}
