@@ -1,0 +1,112 @@
+/* @media screen and (max-width: 480px) {
+    .css-e7l9xk {
+        min-height: 186px !important; 
+        margin-top: 25px ;
+      }      
+} */
+
+.css-a5dxyx {
+  margin-bottom: 0 !important;
+}
+.css-1uqpzne {
+  margin-top: -15px;
+}
+.css-xwkju2 {
+  margin-top: 12px;
+}
+
+@media (max-width: 599.98px) {
+  .css-ihffm5 {
+    min-height: 186px !important;
+    margin-top: 60px;
+  }
+  .css-ducv57 {
+    width: 80% !important;
+    margin-top: 50px;
+  }
+  .css-6unjtn {
+    margin-bottom: -27% !important;
+    margin-left: 50px;
+  }
+  .css-1rz5sae {
+    margin-top: 85px;
+  }
+  .css-dvxtzn {
+    margin-left: 27px;
+  }
+  .css-132tc75-MuiPaper-root-MuiCard-root {
+    margin-top: 20px !important;
+  }
+  .css-mifb2i {
+    margin-top: 35px !important;
+  }
+  .css-1yze4yp-MuiContainer-root {
+    width: 90% !important;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 959.98px) {
+  .css-ihffm5 {
+    min-height: 315px !important;
+    margin-top: 50px;
+  }
+  .css-zow5z4-MuiGrid-root {
+    margin-top: 20px !important;
+  }
+  .css-1rz5sae {
+    margin-top: 55px;
+  }
+  .product-image {
+    height: 350px !important;
+    width: 350px !important;
+  }
+  .css-6unjtn {
+    margin-left: 20px;
+    margin-bottom: -127px;
+  }
+  .css-132tc75-MuiPaper-root-MuiCard-root {
+    margin-top: 20px !important;
+  }
+  .css-mifb2i {
+    margin-top: 25px !important;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .css-6unjtn {
+    margin-top: 88px !important;
+  }
+  .css-1rz5sae {
+    margin-top: 70px !important;
+  }
+  .product-image {
+    height: 220px !important;
+    width: 220px !important;
+  }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  .css-ihffm5 {
+    min-height: 505px !important;
+    margin-top: 35px;
+  }
+}
+
+/* Added code for responsiveness  */
+@media screen and (min-device-width: 1150px) and (max-device-width: 1675px) {
+  .searchBar {
+    margin-left: 1%;
+  }
+  .product-image {
+    height: 350px !important;
+    width: 350px !important;
+  }
+}
+/* Added code for responsiveness  */
+@media only screen and (min-device-width: 1440px) and (max-device-width: 2800px) {
+  .css-ihffm5 {
+    min-height: 1029px !important;
+  }
+  .searchBar {
+    margin-left: 1%;
+  }
+}
